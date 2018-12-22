@@ -10,6 +10,7 @@ News app
 S.N | Tasks | Name|
 --- | --- | ---
 1   | Project leader| @Uttam |
-2   | Devs / tester| @Uttam, @Doma|
+2   | Lead / second Devs| @Pasang, @Uttam|
 3   | Q/A-q/a / Report | @Saujan |
-4   | Q/A-q/a / Report  | @Asish |
+4   | q/a / Report  | @Asish |
+5   |  tester | @saujan @Uttam, @Pasang|
