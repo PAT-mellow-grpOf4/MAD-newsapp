@@ -21,7 +21,7 @@ S.N | Tasks | Name|
   - [ ] Questionaies prep
   - [ ] refrence upate
   - [ ] document update
-  - [ ] slide update
+  - [x] slide update [Main slide presenting](http:https://docs.google.com/presentation/d/1Bq3mcm6QS_wzo5sA6MZyKBJqGgzsG1wOmSVGwbXbZ74/edit#slide=id.p "Slide")
   - [ ] press kit inclusion in repo
 
 **Note**
