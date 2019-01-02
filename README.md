@@ -18,7 +18,8 @@ S.N | Tasks | Name|
 ## to-dos
   things left to be done
   - [x] role assigned
-  - [ ] Questionaies prep
+  - [x] Questionaies prep
+  - [x] Survey collection
   - [ ] refrence upate
   - [ ] document update
   - [x] slide update [Main slide presenting](http:https://docs.google.com/presentation/d/1Bq3mcm6QS_wzo5sA6MZyKBJqGgzsG1wOmSVGwbXbZ74/edit#slide=id.p "Slide")
