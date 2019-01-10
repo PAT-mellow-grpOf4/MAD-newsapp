@@ -23,7 +23,7 @@ S.N | Tasks | Name|
   - [ ] refrence upate
   - [ ] document update
   - [x] slide update [Main slide presenting](http:https://docs.google.com/presentation/d/1Bq3mcm6QS_wzo5sA6MZyKBJqGgzsG1wOmSVGwbXbZ74/edit#slide=id.p "Slide")
-  - [ ] press kit inclusion in repo
+ ~~- [x] press kit inclusion in repo~~
 
 **Note**
  > Q/A = Quality Assurance\
