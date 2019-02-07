@@ -4,6 +4,7 @@ News app
 ## stacks
   - Json
   - vanilla js
+  - Vue.js
   - ~~Firebase as database~~
   - ~~jquery~~
  
@@ -21,8 +22,9 @@ S.N | Tasks | Name|
   - [x] role assigned
   - [x] Questionaies prep
   - [x] Survey collection
-  - [ ] refrence upate
-  - [ ] document update
+  - [x] refrence upate
+  - [x] document update
+  - [x] Video with voice over 
   - [x] slide update [Main slide presenting](http:https://docs.google.com/presentation/d/1Bq3mcm6QS_wzo5sA6MZyKBJqGgzsG1wOmSVGwbXbZ74/edit#slide=id.p "Slide")
   - [x] ~~press kit inclusion in repo~~
 
